@@ -143,8 +143,14 @@
     <ClCompile Include="Bus.cpp" />
     <ClCompile Include="Car.cpp" />
     <ClCompile Include="Cargo_Van.cpp" />
+    <ClCompile Include="Ford_Bus.cpp" />
+    <ClCompile Include="Ford_Cargo_Van.cpp" />
     <ClCompile Include="Ford_Factory.cpp" />
+    <ClCompile Include="Ford_Sedan.cpp" />
+    <ClCompile Include="Mercedes_Bus.cpp" />
+    <ClCompile Include="Mercedes_Cargo_Van.cpp" />
     <ClCompile Include="Mercedes_Factory.cpp" />
+    <ClCompile Include="Mercedes_Sedan.cpp" />
     <ClCompile Include="Sedan.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
@@ -153,8 +159,14 @@
     <ClInclude Include="Bus.h" />
     <ClInclude Include="Car.h" />
     <ClInclude Include="Cargo_Van.h" />
+    <ClInclude Include="Ford_Bus.h" />
+    <ClInclude Include="Ford_Cargo_Van.h" />
     <ClInclude Include="Ford_Factory.h" />
+    <ClInclude Include="Ford_Sedan.h" />
+    <ClInclude Include="Mercedes_Bus.h" />
+    <ClInclude Include="Mercedes_Cargo_Van.h" />
     <ClInclude Include="Mercedes_Factory.h" />
+    <ClInclude Include="Mercedes_Sedan.h" />
     <ClInclude Include="Sedan.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
